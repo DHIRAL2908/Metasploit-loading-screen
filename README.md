@@ -1,6 +1,6 @@
 # Metasploit-loading-screen
-The loading screen of Metasploit, i.e. " |->/->\->|->/->\->| " in C++ which can be executed in Windows too...
-The coding is pretty easy once you know how to print the "\" symbol...(Its actually done by "\\".)
+The loading screen of Metasploit, i.e. " |->/->\\->|->/->\\->| " in C++ which can be executed in Windows too...
+The coding is pretty easy once you know how to print the "\\" symbol...(Its actually done by "\\\".)
 So, File details:
 
 
